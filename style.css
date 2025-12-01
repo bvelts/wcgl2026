@@ -7,7 +7,7 @@ body {
     }
 
 .container {
-    background-color: rgb(147, 180, 165); /* Light background to make text readable */
+    background-color: rgb(147, 180, 165); 
     padding: 20px;
     border-radius: 10px;
     max-width: 1800px;
