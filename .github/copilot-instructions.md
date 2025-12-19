@@ -41,4 +41,4 @@ This is a static HTML website for the Whitecourt Winter Golf League (WGL 2026), 
 - **Proxy**: Closest to pin (KP) and hole out contests
 - **Gross/Net**: Total strokes vs. adjusted for handicap
 - **Dif**: Difference from par (not shown in tables, but used in calculations)
-- **WGC Points**: League points awarded per position (9 for 1st, down to 1 for 9th)
+- **WGC Points**: League points awarded per position, equal to the number of players that played (e.g., 5 for 1st in a 5-player week)
